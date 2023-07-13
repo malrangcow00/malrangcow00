@@ -3,11 +3,15 @@ SSAFY 10th Coding Track을 이수하고 있습니다.
 ![01](https://github.com/malrangcow00/malrangcow00/assets/115908997/cb653729-e768-4518-9665-15b99d7a8e97)
 ![증명사진](./img/profile)
 [![malrangcow00's GitHub stats](https://github-readme-stats.vercel.app/api?username=malrangcow00)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=malrangcow00)](https://solved.ac/malrangcow00/)
 
-학업
-자격증
-IT관심사
-기술스택
+학업  
+자격증  
+IT관심사  
+기술스택 (기술스택 뱃지)
+<!-- <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white"> -->
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+https://shields.io/badges
 
 # Contact
   - e-mail
