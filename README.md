@@ -1,7 +1,5 @@
 # ✨ MalrangCow ✨  
 ### <span style="color: #868e96">A Developer You'd Want to Collaborate With</span>
-
----
 Alooo !! 👋 I’m MalrangCow, a dedicated back-end developer with a zest for creativity and innovation. 😄
 
 When I'm not deep in code, you'll find me riffing on my electric guitar 🎸, immersing myself in gaming 🎮,  
@@ -25,8 +23,6 @@ and a steadfast dedication to honing my craft with the latest technologies. 💻
 [//]: # ([![malrangcow00's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=malrangcow00&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
 
 ## Computational Thinking
-
----
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=malrangcow00)](https://solved.ac/malrangcow00/)
 
 [//]: # (Most used Langs)
@@ -34,16 +30,12 @@ and a steadfast dedication to honing my craft with the latest technologies. 💻
 
 
 ## Programming Languages
-
----
 <img src="assets/Java.png" width="5%"><img src="assets/Python.png" width="7%"> <img src="assets/JavaScript.png" width="4%">  
 
 [//]: # (<img src="assets/Ruby.png" width="8%">)
 Now learning: `Ruby`
 
 ## Frameworks
-
---- 
 ![Static Badge](https://img.shields.io/badge/Spring_Boot-ffffff.svg?&style=flat&logo=springboot&logoColor=6db33f) ![Static Badge](https://img.shields.io/badge/Django-103e2e.svg?&style=flat&logo=django&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/FastAPI-ffffff.svg?&style=flat&logo=fastapi&logoColor=05988a)  
 
 [//]: # (![Static Badge]&#40;https://img.shields.io/badge/React-ffffff.svg?&style=flat&logo=react&logoColor=61dafb&#41;  )
@@ -52,9 +44,6 @@ Now learning: `React`
 
 
 ## Collaboration Tools
-
----
-
 ![Static Badge](https://img.shields.io/badge/JIRA-253858.svg?&style=flat&logo=JIRA&logoColor=2684ff)
 ![Static Badge](https://img.shields.io/badge/Gerrit-ffffff.svg?&style=flat&logo=GERRIT&logoColor=000080)  
 ![Static Badge](https://img.shields.io/badge/Github-000000.svg?&style=flat&logo=GITHUB&logoColor=ffffff)
@@ -70,8 +59,6 @@ Now learning: `React`
 [//]: # (---)
 
 ## EDUCATION
-
----
 🌆 [SSAFY] : Samsung Software Academy For Youth
 > Jul. 2023 ~
 
@@ -86,9 +73,6 @@ Now learning: `React`
 [//]: # (---)
 
 ## Languages
-
----
-
 <span style="color: #228be6">한</span> Korean  
 <span style="color: #4c6ef5">En</span> English  
 <span style="color: #fa5252">あ</span> Japanese
