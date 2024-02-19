@@ -96,7 +96,7 @@ Now learning: `React`
 ## Find me
 
 ---
-<a href="malrangcow00.github.io"><img src="assets/Blog.png" width="5%"></a> <a href="https://youtube.com/@MalrangCow"><img src="assets/YouTube.png" width="5%"></a> <a href="https://linkedin.com/in/malrangcow"><img src="assets/LinkedIn.png" width="5%"></a> <a href="mailto:malrangcow00@gmail.com"><img src="assets/Gmail.png" width="5%"></a>
+<a href="https://malrangcow00.github.io"><img src="assets/Blog.png" width="5%"></a> <a href="https://youtube.com/@MalrangCow"><img src="assets/YouTube.png" width="5%"></a> <a href="https://linkedin.com/in/malrangcow"><img src="assets/LinkedIn.png" width="5%"></a> <a href="mailto:malrangcow00@gmail.com"><img src="assets/Gmail.png" width="5%"></a>
 
 
 [//]: # (리액트 추가)
