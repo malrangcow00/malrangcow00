@@ -91,10 +91,7 @@ and a steadfast dedication to honing my craft with the latest technologies. 💪
 ## Find me
 
 ---
-<img src="assets/Blog.png" width="5%">
-<img src="assets/YouTube.png" width="5%">
-<img src="assets/LinkedIn.png" width="5%">
-<img src="assets/Gmail.png" width="5%">
+<img src="assets/Blog.png" width="5%"> <img src="assets/YouTube.png" width="5%"> <img src="assets/LinkedIn.png" width="5%"> <img src="assets/Gmail.png" width="5%">
 
 
 [//]: # (리액트 추가)
