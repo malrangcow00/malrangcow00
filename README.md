@@ -1,4 +1,10 @@
-Hello !! I'm MalrangCow  
+# MalrangCow  
+<span style="color: #868e96">A Developer You'd Want to Collaborate With</span>
+
+---
+As a back-end developer, I've completed my first semester at [SSAFY](https://ssafy.com) and am currently advancing through the second. My journey in software development is fueled by a fearless pursuit of knowledge and an unwavering commitment to mastering new technologies.
+
+
 
 [//]: # (Github Stats)
 [//]: # ([![malrangcow00's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=malrangcow00&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
@@ -15,9 +21,7 @@ Hello !! I'm MalrangCow
 ### Programming Languages
 
 ---
-<img src="assets/Java.png" width="5%">
-<img src="assets/Python.png" width="7%">
-<img src="assets/JavaScript.png" width="4%">
+<img src="assets/Java.png" width="5%"><img src="assets/Python.png" width="7%"> <img src="assets/JavaScript.png" width="4%">
 
 ### Frameworks
 
