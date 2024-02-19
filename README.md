@@ -87,25 +87,21 @@ Each day in my software development voyage is energized by an unbridled enthusia
 <span style="color: #4c6ef5">En</span> English  
 <span style="color: #fa5252">あ</span> Japanese
 
+## Find me
+
+---
+<img src="assets/Blog.png" width="5%">
+<img src="assets/YouTube.png" width="5%">
+<img src="assets/LinkedIn.png" width="5%">
+<img src="assets/Gmail.png" width="5%">
+
+
 [//]: # (리액트 추가)
 [//]: # (Infra 기술 스택 추가)
 [//]: # (루비 추가할까...??)
 
-[//]: # (find me on the web)
-[//]: # (follow me on github)
-[//]: # (connect with me on linkedin)
-[//]: # (email me)
-
-[//]: # (### Hi there 👋)
-
-[//]: # (Here are some ideas to get you started:)
-
 [//]: # (- 🔭 I’m currently working on ...)
-
 [//]: # (- 🌱 I’m currently learning ...)
-
 [//]: # (- 💬 Ask me about ...)
-
-[//]: # (- 📫 How to reach me: ...)
 
 
