@@ -1,15 +1,16 @@
 # MalrangCow  
-<span style="color: #868e96">A Developer You'd Want to Collaborate With</span>
+## <span style="color: #868e96">A Developer You'd Want to Collaborate With</span>
 
 ---
-As a back-end developer, I've completed my first semester at [SSAFY](https://ssafy.com) and am currently advancing through the second. My journey in software development is fueled by a fearless pursuit of knowledge and an unwavering commitment to mastering new technologies.
+As a back-end developer, I've completed my first semester at [SSAFY](https://ssafy.com) and am currently advancing through the second.  
+My journey in software development is fueled by a fearless pursuit of knowledge and an unwavering commitment to mastering new technologies.
 
 
 
 [//]: # (Github Stats)
 [//]: # ([![malrangcow00's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=malrangcow00&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
 
-### Computational Thinking
+## Computational Thinking
 
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=malrangcow00)](https://solved.ac/malrangcow00/)
@@ -18,12 +19,12 @@ As a back-end developer, I've completed my first semester at [SSAFY](https://ssa
 [//]: # (![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=malrangcow00&layout=compact&theme=dark&#41;)
 
 
-### Programming Languages
+## Programming Languages
 
 ---
 <img src="assets/Java.png" width="5%"><img src="assets/Python.png" width="7%"> <img src="assets/JavaScript.png" width="4%">
 
-### Frameworks
+## Frameworks
 
 --- 
 ![Static Badge](https://img.shields.io/badge/Spring_Boot-ffffff.svg?&style=flat&logo=springboot&logoColor=6db33f)
@@ -31,7 +32,7 @@ As a back-end developer, I've completed my first semester at [SSAFY](https://ssa
 ![Static Badge](https://img.shields.io/badge/FastAPI-ffffff.svg?&style=flat&logo=fastapi&logoColor=05988a)
 
 
-### Collaboration Tools
+## Collaboration Tools
 
 ---
 
@@ -49,7 +50,7 @@ As a back-end developer, I've completed my first semester at [SSAFY](https://ssa
 [//]: # ()
 [//]: # (---)
 
-### EDUCATION
+## EDUCATION
 
 ---
 [Samsung Software Academy For Youth](https://ssafy.com)
@@ -65,10 +66,13 @@ As a back-end developer, I've completed my first semester at [SSAFY](https://ssa
 [//]: # ()
 [//]: # (---)
 
-### Languages
+## Languages
 
 ---
 
 <span style="color: #228be6">한</span> Korean  
 <span style="color: #4c6ef5">En</span> English  
 <span style="color: #fa5252">あ</span> Japanese
+
+[//]: # (리액트 추가)
+[//]: # (Infra 기술 스택 추가)
