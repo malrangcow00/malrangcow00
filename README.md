@@ -8,7 +8,7 @@ When I'm not deep in code, you'll find me riffing on my electric guitar 🎸, im
 or taking leisurely drives accompanied by my favorite tunes. 🎧  
 If any of these resonate with you, we're already friends! 👬
 
-At [SSAFY](https://ssafy.com) <img src="assets/Samsung.png" width="5%">, I've triumphantly wrapped up my first semester and am currently navigating through the second. 🏃
+At [SSAFY] <img src="assets/Samsung.png" width="5%">, I've triumphantly wrapped up my first semester and am currently navigating through the second. 🏃
 
 Each day in my software development voyage is energized by an unbridled enthusiasm for learning 🔥💪  
 and a steadfast dedication to honing my craft with the latest technologies. 💻
@@ -72,7 +72,7 @@ Now learning: `React`
 ## EDUCATION
 
 ---
-🌆 [SSAFY: Samsung Software Academy For Youth](https://ssafy.com)
+🌆 [SSAFY]: Samsung Software Academy For Youth
 > Jul. 2023 ~
 
 [//]: # (### Experience)
@@ -108,3 +108,4 @@ Now learning: `React`
 [//]: # (- 💬 Ask me about ...)
 
 
+[SSAFY]: https://ssafy.com
