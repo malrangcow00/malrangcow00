@@ -72,7 +72,7 @@ Now learning: `React`
 ## EDUCATION
 
 ---
-🌆 [SSAFY] (Samsung Software Academy For Youth)
+🌆 [SSAFY] : Samsung Software Academy For Youth
 > Jul. 2023 ~
 
 [//]: # (### Experience)
