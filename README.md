@@ -10,7 +10,7 @@ If any of these resonate with you, we're already friends! 👬
 
 At [SSAFY](https://ssafy.com) <img src="assets/Samsung.png" width="5%">, I've triumphantly wrapped up my first semester and am currently navigating through the second. 🏃
 
-Each day in my software development voyage is energized by an unbridled enthusiasm for learning 📖  
+Each day in my software development voyage is energized by an unbridled enthusiasm for learning 🔥💪  
 and a steadfast dedication to honing my craft with the latest technologies. 💻
 
 [//]: # (I currently work at ~ as a ~. After ~ years in the “Software Engineering Development Program” - rotating from team to team to learn new technologies and meet other developers - I landed on the Authoring team, which develops our next-generation email campaign editor. I also run the “~” a group focused on improving and modernizing frontend technology for all our engineers.)
