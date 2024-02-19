@@ -11,7 +11,7 @@ If any of these resonate with you, we're already friends! 👬
 At [SSAFY](https://ssafy.com) <img src="assets/Samsung.png" width="5%">, I've triumphantly wrapped up my first semester and am currently navigating through the second. 🏃
 
 Each day in my software development voyage is energized by an unbridled enthusiasm for learning 📖  
-and a steadfast dedication to honing my craft with the latest technologies. 💪
+and a steadfast dedication to honing my craft with the latest technologies. 💻
 
 [//]: # (I currently work at ~ as a ~. After ~ years in the “Software Engineering Development Program” - rotating from team to team to learn new technologies and meet other developers - I landed on the Authoring team, which develops our next-generation email campaign editor. I also run the “~” a group focused on improving and modernizing frontend technology for all our engineers.)
 
@@ -38,20 +38,17 @@ and a steadfast dedication to honing my craft with the latest technologies. 💪
 ---
 <img src="assets/Java.png" width="5%"><img src="assets/Python.png" width="7%"> <img src="assets/JavaScript.png" width="4%">  
 
-Now learning: 
-><img src="assets/Ruby.png" width="8%">
-
-`Ruby`
+[//]: # (<img src="assets/Ruby.png" width="8%">)
+Now learning: `Ruby`
 
 ## Frameworks
 
 --- 
 ![Static Badge](https://img.shields.io/badge/Spring_Boot-ffffff.svg?&style=flat&logo=springboot&logoColor=6db33f) ![Static Badge](https://img.shields.io/badge/Django-103e2e.svg?&style=flat&logo=django&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/FastAPI-ffffff.svg?&style=flat&logo=fastapi&logoColor=05988a)  
 
-Now learning: 
->![Static Badge](https://img.shields.io/badge/React-ffffff.svg?&style=flat&logo=react&logoColor=61dafb)  
+[//]: # (![Static Badge]&#40;https://img.shields.io/badge/React-ffffff.svg?&style=flat&logo=react&logoColor=61dafb&#41;  )
 
-`React`
+Now learning: `React`
 
 
 ## Collaboration Tools
