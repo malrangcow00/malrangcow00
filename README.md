@@ -1,9 +1,21 @@
-# MalrangCow  
-## <span style="color: #868e96">A Developer You'd Want to Collaborate With</span>
+# ✨ MalrangCow ✨  
+### <span style="color: #868e96">✨ A Developer You'd Want to Collaborate With ✨</span>
 
 ---
-As a back-end developer, I've completed my first semester at [SSAFY](https://ssafy.com) and am currently advancing through the second.  
-My journey in software development is fueled by a fearless pursuit of knowledge and an unwavering commitment to mastering new technologies.
+Alooo !! 👋 I’m MalrangCow, a dedicated back-end developer with a zest for creativity and innovation. 😄
+
+When I'm not deep in code, you'll find me riffing on my electric guitar 🎸, immersing myself in gaming 🎮, or taking leisurely drives accompanied by my favorite tunes. 🎶🎵🎼  
+If any of these resonate with you, we're already friends! 👬
+
+At [SSAFY](https://ssafy.com), I've triumphantly wrapped up my first semester and am currently navigating through the second.
+
+Each day in my software development voyage is energized by an unbridled enthusiasm for learning and a steadfast dedication to honing my craft with the latest technologies.
+
+[//]: # (I currently work at ~ as a ~. After ~ years in the “Software Engineering Development Program” - rotating from team to team to learn new technologies and meet other developers - I landed on the Authoring team, which develops our next-generation email campaign editor. I also run the “~” a group focused on improving and modernizing frontend technology for all our engineers.)
+
+[//]: # (In 2014 I graduated from ~ with a B.S. in ~ Development. I studied ~, ~ ;mostly ~;, ~, ~, ~, and more. I also received a Minor in Music & Technology, a combination of music theory, history, culture, and audio engineering.)
+
+[//]: # (Throughout university I was an active member of Computer Science House, a “Special Interest House” with a focus on, you guessed it, computers. I learned a ton while I was there, both through personal projects and just being in an atmosphere of learning and &#40;more importantly&#41; doing.)
 
 
 
@@ -76,3 +88,23 @@ My journey in software development is fueled by a fearless pursuit of knowledge 
 
 [//]: # (리액트 추가)
 [//]: # (Infra 기술 스택 추가)
+[//]: # (루비 추가할까...??)
+
+[//]: # (find me on the web)
+[//]: # (follow me on github)
+[//]: # (connect with me on linkedin)
+[//]: # (email me)
+
+[//]: # (### Hi there 👋)
+
+[//]: # (Here are some ideas to get you started:)
+
+[//]: # (- 🔭 I’m currently working on ...)
+
+[//]: # (- 🌱 I’m currently learning ...)
+
+[//]: # (- 💬 Ask me about ...)
+
+[//]: # (- 📫 How to reach me: ...)
+
+
