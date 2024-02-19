@@ -36,14 +36,22 @@ and a steadfast dedication to honing my craft with the latest technologies. 💪
 ## Programming Languages
 
 ---
-<img src="assets/Java.png" width="5%"><img src="assets/Python.png" width="7%"> <img src="assets/JavaScript.png" width="4%">
+<img src="assets/Java.png" width="5%"><img src="assets/Python.png" width="7%"> <img src="assets/JavaScript.png" width="4%">  
+
+Now learning: 
+><img src="assets/Ruby.png" width="8%">
+
+`Ruby`
 
 ## Frameworks
 
 --- 
-![Static Badge](https://img.shields.io/badge/Spring_Boot-ffffff.svg?&style=flat&logo=springboot&logoColor=6db33f)
-![Static Badge](https://img.shields.io/badge/Django-103e2e.svg?&style=flat&logo=django&logoColor=ffffff)
-![Static Badge](https://img.shields.io/badge/FastAPI-ffffff.svg?&style=flat&logo=fastapi&logoColor=05988a)
+![Static Badge](https://img.shields.io/badge/Spring_Boot-ffffff.svg?&style=flat&logo=springboot&logoColor=6db33f) ![Static Badge](https://img.shields.io/badge/Django-103e2e.svg?&style=flat&logo=django&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/FastAPI-ffffff.svg?&style=flat&logo=fastapi&logoColor=05988a)  
+
+Now learning: 
+>![Static Badge](https://img.shields.io/badge/React-ffffff.svg?&style=flat&logo=react&logoColor=61dafb)  
+
+`React`
 
 
 ## Collaboration Tools
