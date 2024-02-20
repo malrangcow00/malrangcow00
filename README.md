@@ -96,6 +96,7 @@ Now learning: `React`
 ## Find me
 
 ---
+[//]: # (Github에서는 보안상의 이유로 HTML 내 "target="_blank"를 포함하는 등의 일부 속성을 무시한다.)
 <a href="https://malrangcow00.github.io"><img src="assets/Blog.png" width="5%"></a> <a href="https://youtube.com/@MalrangCow"><img src="assets/YouTube.png" width="5%"></a> <a href="https://linkedin.com/in/malrangcow"><img src="assets/LinkedIn.png" width="5%"></a> <a href="mailto:malrangcow00@gmail.com"><img src="assets/Gmail.png" width="5%"></a>
 
 
