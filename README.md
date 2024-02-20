@@ -45,6 +45,7 @@ Now learning: `Ruby`
 
 --- 
 ![Static Badge](https://img.shields.io/badge/Spring_Boot-ffffff.svg?&style=flat&logo=springboot&logoColor=6db33f) ![Static Badge](https://img.shields.io/badge/Django-103e2e.svg?&style=flat&logo=django&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/FastAPI-ffffff.svg?&style=flat&logo=fastapi&logoColor=05988a)  
+
 ![Static Badge](https://img.shields.io/badge/Vue.js-ffffff.svg?&style=flat&logo=vue.js&logoColor=41b883)
 
 [//]: # (![Static Badge]&#40;https://img.shields.io/badge/React-ffffff.svg?&style=flat&logo=react&logoColor=61dafb&#41;  )
@@ -58,8 +59,10 @@ Now learning: `React`
 
 ![Static Badge](https://img.shields.io/badge/JIRA-253858.svg?&style=flat&logo=JIRA&logoColor=2684ff)
 ![Static Badge](https://img.shields.io/badge/Gerrit-ffffff.svg?&style=flat&logo=GERRIT&logoColor=000080)  
+
 ![Static Badge](https://img.shields.io/badge/Github-000000.svg?&style=flat&logo=GITHUB&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/GITLAB-e14328.svg?&style=flat&logo=GITLAB&logoColor=ff9d1a)  
+
 ![Static Badge](https://img.shields.io/badge/NOTION-ffffff.svg?&style=flat&logo=NOTION&logoColor=000000)
 ![Static Badge](https://img.shields.io/badge/MATTERMOST-2c4478.svg?&style=flat&logo=MATTERMOST&logoColor=ffffff)
 
