@@ -6,7 +6,7 @@ Alooo !! 👋 I’m MalrangCow, a dedicated back-end developer with a zest for c
 
 When I'm not deep in code, you'll find me riffing on my electric guitar 🎸, immersing myself in gaming 🎮,  
 or taking leisurely drives accompanied by my favorite tunes. 🎧  
-If any of these resonate with you, we're already friends! 👬
+If any of these resonate with you, we're already friends ! 👬
 
 At [SSAFY] <img src="assets/Samsung.png" width="5%">, I've triumphantly wrapped up my first semester and am currently navigating through the second. 🏃
 
