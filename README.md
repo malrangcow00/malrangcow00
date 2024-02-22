@@ -39,7 +39,7 @@ and a steadfast dedication to honing my craft with the latest technologies. 💻
 <img src="assets/Java.png" width="5%"><img src="assets/Python.png" width="7%"> <img src="assets/JavaScript.png" width="4%">  
 
 [//]: # (<img src="assets/Ruby.png" width="8%">)
-Now learning: `Ruby`
+Now learning: `Ruby`, `TypeScript`
 
 ## Frameworks
 
