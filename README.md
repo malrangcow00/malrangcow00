@@ -18,7 +18,7 @@ My digital sanctuary is ~~a work-in-progress 🚧,~~ (Now it's done !)
 a budding space where I'll be uploading learning joy and snippets from my daily life.  
 (Unfortunately, it supports only Korean for now. 😿)  
 
-Stay tuned for updates, and let’s stack the digital bricks and communicate together !
+Stay tuned for updates, and let’s stack the digital bricks and communicate together ! 🚀
 
 [//]: # (I currently work at ~ as a ~. After ~ years in the “Software Engineering Development Program” - rotating from team to team to learn new technologies and meet other developers - I landed on the Authoring team, which develops our next-generation email campaign editor. I also run the “~” a group focused on improving and modernizing frontend technology for all our engineers.)
 
