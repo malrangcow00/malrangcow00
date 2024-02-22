@@ -13,7 +13,7 @@ At [SSAFY] <img src="assets/Samsung.png" width="5%">, I've triumphantly wrapped 
 Each day in my software development voyage is energized by an unbridled enthusiasm for learning 🔥💪  
 and a steadfast dedication to honing my craft with the latest technologies. 💻
 
-And I'm also the architect 🔨 behind a burgeoning [Blog](https://malrangcow00.github.io) ! <a href="https://malrangcow00.github.io"><img src="assets/Blog.png" width="2.2%"></a>  
+And I'm also the architect 🔨 behind a burgeoning [Blog](https://malrangcow00.github.io) ! <a href="#find-me"><img src="assets/Blog.png" width="2.2%"></a>  
 My digital sanctuary is ~~a work-in-progress 🚧,~~ (Now it's done !)  
 a budding space where I'll be uploading learning joy and snippets from my daily life.  
 (Unfortunately, it supports only Korean for now. 😿)  
