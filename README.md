@@ -50,7 +50,7 @@ Now learning: `Ruby`
 
 [//]: # (![Static Badge]&#40;https://img.shields.io/badge/React-ffffff.svg?&style=flat&logo=react&logoColor=61dafb&#41;  )
 
-Now learning: `React`
+Now learning: `React`, `Next.js`
 
 
 ## Collaboration Tools
