@@ -59,6 +59,26 @@ Now learning: `Ruby`, `TypeScript`
 
 Now learning: `React`
 
+## DataBase
+
+---
+
+![Static Badge](https://img.shields.io/badge/MySQL-000000.svg?&style=flat&logo=mysql&logoColor=ffffff)  
+
+## Infrastructure
+
+---
+
+`Google Cloud Platform`  
+
+## DevOps
+
+---
+
+![Static Badge](https://img.shields.io/badge/GitHub-Actions-000000.svg?&style=flat&logo=GITHUBACTIONS&logoColor=ffffff)  
+
+![Static Badge](https://img.shields.io/badge/GitHub-000000.svg?&style=flat&logo=GITHUB&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/GITLAB-e14328.svg?&style=flat&logo=GITLAB&logoColor=ff9d1a) 
 
 ## Collaboration Tools
 
@@ -66,16 +86,13 @@ Now learning: `React`
 
 ![Static Badge](https://img.shields.io/badge/JIRA-253858.svg?&style=flat&logo=JIRA&logoColor=2684ff)
 ![Static Badge](https://img.shields.io/badge/Gerrit-ffffff.svg?&style=flat&logo=GERRIT&logoColor=000080)  
-
-![Static Badge](https://img.shields.io/badge/Github-000000.svg?&style=flat&logo=GITHUB&logoColor=ffffff)
-![Static Badge](https://img.shields.io/badge/GITLAB-e14328.svg?&style=flat&logo=GITLAB&logoColor=ff9d1a)  
-
+ 
 ![Static Badge](https://img.shields.io/badge/NOTION-ffffff.svg?&style=flat&logo=NOTION&logoColor=000000)
 ![Static Badge](https://img.shields.io/badge/MATTERMOST-2c4478.svg?&style=flat&logo=MATTERMOST&logoColor=ffffff)
 
 
 
-[//]: # (### PROJECT)
+[//]: # (## PROJECT)
 
 [//]: # ()
 [//]: # (---)
