@@ -59,7 +59,7 @@ Now learning: `Ruby`, `TypeScript`
 
 [//]: # (![Static Badge]&#40;https://img.shields.io/badge/React-ffffff.svg?&style=flat&logo=react&logoColor=61dafb&#41;  )
 
-Now learning: `React`, `PyTorch`, `Pandas`
+Now learning: `React`, `Python Libraries`  
 
 ## Infrastructure & DevOps
 
