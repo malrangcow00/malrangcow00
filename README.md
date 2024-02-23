@@ -48,47 +48,54 @@ Stay tuned for updates, and let’s stack the digital bricks and communicate tog
 [//]: # (<img src="assets/Ruby.png" width="8%">)
 Now learning: `Ruby`, `TypeScript`
 
-## Frameworks
+## Frameworks & Libraries
 
 --- 
-![Static Badge](https://img.shields.io/badge/Spring_Boot-ffffff.svg?&style=flat&logo=springboot&logoColor=6db33f) ![Static Badge](https://img.shields.io/badge/Django-103e2e.svg?&style=flat&logo=django&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/FastAPI-ffffff.svg?&style=flat&logo=fastapi&logoColor=05988a)  
+![Static Badge](https://img.shields.io/badge/Spring_Boot-ffffff.svg?&style=flat&logo=springboot&logoColor=6db33f)  
+
+![Static Badge](https://img.shields.io/badge/Django-103e2e.svg?&style=flat&logo=django&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/FastAPI-ffffff.svg?&style=flat&logo=fastapi&logoColor=05988a)  
 
 ![Static Badge](https://img.shields.io/badge/Vue.js-ffffff.svg?&style=flat&logo=vue.js&logoColor=41b883)
 
 [//]: # (![Static Badge]&#40;https://img.shields.io/badge/React-ffffff.svg?&style=flat&logo=react&logoColor=61dafb&#41;  )
 
-Now learning: `React`
+Now learning: `React`, `PyTorch`, `Pandas`
 
-## DataBase
-
----
-
-![Static Badge](https://img.shields.io/badge/MySQL-ffffff.svg?&style=flat&logo=mysql&logoColor=00618a)  
-
-## Infrastructure
+## Infrastructure & DevOps
 
 ---
+
+![Static Badge](https://img.shields.io/badge/MySQL-ffffff.svg?&style=flat&logo=mysql&logoColor=00618a)
+![Static Badge](https://img.shields.io/badge/SQLite-ffffff.svg?&style=flat&logo=sqlite&logoColor=0082c8)  
 
 `Google Cloud Platform`  
 
-## DevOps
-
----
-
-![Static Badge](https://img.shields.io/badge/GitHub-Actions-000000.svg?&style=flat&logo=GITHUBACTIONS&logoColor=ffffff)  
+![Static Badge](https://img.shields.io/badge/GitHub-Actions-ffffff.svg?&style=flat&logo=GITHUBACTIONS&logoColor=1e88ff)  
 
 ![Static Badge](https://img.shields.io/badge/GitHub-000000.svg?&style=flat&logo=GITHUB&logoColor=ffffff)
-![Static Badge](https://img.shields.io/badge/GITLAB-e14328.svg?&style=flat&logo=GITLAB&logoColor=ff9d1a) 
+![Static Badge](https://img.shields.io/badge/GITLAB-e14328.svg?&style=flat&logo=GITLAB&logoColor=0081c5) 
 
-## Collaboration Tools
+## Tools
 
 ---
+
+![Static Badge](https://img.shields.io/badge/Figma-ffffff.svg?&style=flat&logo=figma&logoColor=b659ff)  
 
 ![Static Badge](https://img.shields.io/badge/JIRA-253858.svg?&style=flat&logo=JIRA&logoColor=2684ff)
 ![Static Badge](https://img.shields.io/badge/Gerrit-ffffff.svg?&style=flat&logo=GERRIT&logoColor=000080)  
  
-![Static Badge](https://img.shields.io/badge/NOTION-ffffff.svg?&style=flat&logo=NOTION&logoColor=000000)
+![Static Badge](https://img.shields.io/badge/Obsidian-000000.svg?&style=flat&logo=obsidian&logoColor=846eda) 
+![Static Badge](https://img.shields.io/badge/NOTION-ffffff.svg?&style=flat&logo=NOTION&logoColor=000000)   
+
 ![Static Badge](https://img.shields.io/badge/MATTERMOST-2c4478.svg?&style=flat&logo=MATTERMOST&logoColor=ffffff)
+
+## Web Technologies
+
+---
+
+![Static Badge](https://img.shields.io/badge/HTML-ffffff.svg?&style=flat&logo=html5&logoColor=e44f26)
+![Static Badge](https://img.shields.io/badge/CSS-ffffff.svg?&style=flat&logo=css3&logoColor=1572b6)
+![Static Badge](https://img.shields.io/badge/Sass-ffffff.svg?&style=flat&logo=sass&logoColor=cf649a)  
 
 
 
@@ -113,7 +120,7 @@ Now learning: `React`
 [//]: # ()
 [//]: # (---)
 
-## Languages
+## Natural Languages
 
 ---
 
