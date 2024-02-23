@@ -68,7 +68,7 @@ Now learning: `React`, `Python Libraries`
 ![Static Badge](https://img.shields.io/badge/MySQL-ffffff.svg?&style=flat&logo=mysql&logoColor=00618a)
 ![Static Badge](https://img.shields.io/badge/SQLite-ffffff.svg?&style=flat&logo=sqlite&logoColor=0082c8)  
 
-<img src="assets/GCP.png" width="5%">`Google Cloud Platform`  
+<img src="assets/GCP.png" width="1.5%"> `Google Cloud Platform`  
 
 ![Static Badge](https://img.shields.io/badge/GitHub-Actions-ffffff.svg?&style=flat&logo=GITHUBACTIONS&logoColor=1e88ff)  
 
