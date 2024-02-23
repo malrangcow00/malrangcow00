@@ -55,7 +55,7 @@ Now learning: `Ruby`, `TypeScript`
 
 ![Static Badge](https://img.shields.io/badge/Django-103e2e.svg?&style=flat&logo=django&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/FastAPI-ffffff.svg?&style=flat&logo=fastapi&logoColor=05988a)  
 
-![Static Badge](https://img.shields.io/badge/Vue.js-ffffff.svg?&style=flat&logo=vue.js&logoColor=41b883)
+![Static Badge](https://img.shields.io/badge/Vue.js-ffffff.svg?&style=flat&logo=vue.js&logoColor=41b883) ![Static Badge](https://img.shields.io/badge/Vuetify-ffffff.svg?&style=flat&logo=vuetify&logoColor=1697f6) ![Static Badge](https://img.shields.io/badge/Bootstrap-ffffff.svg?&style=flat&logo=bootstrap&logoColor=7d12f8)  
 
 [//]: # (![Static Badge]&#40;https://img.shields.io/badge/React-ffffff.svg?&style=flat&logo=react&logoColor=61dafb&#41;  )
 
