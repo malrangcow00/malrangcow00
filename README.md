@@ -68,12 +68,12 @@ Now learning: `React`, `Python Libraries`
 ![Static Badge](https://img.shields.io/badge/MySQL-ffffff.svg?&style=flat&logo=mysql&logoColor=00618a)
 ![Static Badge](https://img.shields.io/badge/SQLite-ffffff.svg?&style=flat&logo=sqlite&logoColor=0082c8)  
 
-`Google Cloud Platform`  
+<img src="assets/GCP.png" width="5%">`Google Cloud Platform`  
 
 ![Static Badge](https://img.shields.io/badge/GitHub-Actions-ffffff.svg?&style=flat&logo=GITHUBACTIONS&logoColor=1e88ff)  
 
 ![Static Badge](https://img.shields.io/badge/GitHub-000000.svg?&style=flat&logo=GITHUB&logoColor=ffffff)
-![Static Badge](https://img.shields.io/badge/GITLAB-e14328.svg?&style=flat&logo=GITLAB&logoColor=0081c5) 
+![Static Badge](https://img.shields.io/badge/GITLAB-ffffff.svg?&style=flat&logo=GITLAB&logoColor=fc6d26) 
 
 ## Tools
 
