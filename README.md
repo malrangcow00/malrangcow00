@@ -63,7 +63,7 @@ Now learning: `React`
 
 ---
 
-![Static Badge](https://img.shields.io/badge/MySQL-000000.svg?&style=flat&logo=mysql&logoColor=ffffff)  
+![Static Badge](https://img.shields.io/badge/MySQL-ffffff.svg?&style=flat&logo=mysql&logoColor=00618a)  
 
 ## Infrastructure
 
