@@ -74,8 +74,8 @@ Now learning: `React`, `Python Libraries`
 
 ![Static Badge](https://img.shields.io/badge/Git-ffffff.svg?&style=flat&logo=git&logoColor=f03c2e) 
 ![Static Badge](https://img.shields.io/badge/GitHub-000000.svg?&style=flat&logo=GITHUB&logoColor=ffffff) 
-![Static Badge](https://img.shields.io/badge/GITLAB-ffffff.svg?&style=flat&logo=GITLAB&logoColor=fc6d26)  
-
+![Static Badge](https://img.shields.io/badge/GITLAB-ffffff.svg?&style=flat&logo=GITLAB&logoColor=fc6d26) 
+![Static Badge](https://img.shields.io/badge/GitHub-Gist-ff9000.svg?&style=flat&logo=github&labelColor=ffffff&logoColor=ff9000)  
 
 ## Tools
 
@@ -89,8 +89,7 @@ Now learning: `React`, `Python Libraries`
 ![Static Badge](https://img.shields.io/badge/Gerrit-ffffff.svg?&style=flat&logo=GERRIT&logoColor=000080)  
  
 ![Static Badge](https://img.shields.io/badge/GitHub-Desktop-73278a.svg?&style=flat&logo=github&labelColor=ffffff&logoColor=73278a) 
-![Static Badge](https://img.shields.io/badge/SourceTree-ffffff.svg?&style=flat&logo=sourcetree&logoColor=2684ff) 
-![Static Badge](https://img.shields.io/badge/GitHub-Gist-ff9000.svg?&style=flat&logo=GITHUB&labelColor=ffffff&logoColor=ff9000)  
+![Static Badge](https://img.shields.io/badge/SourceTree-ffffff.svg?&style=flat&logo=sourcetree&logoColor=2684ff)  
 
 ![Static Badge](https://img.shields.io/badge/Figma-ffffff.svg?&style=flat&logo=figma&logoColor=b659ff)  
 
