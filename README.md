@@ -72,18 +72,25 @@ Now learning: `React`, `Python Libraries`
 
 ![Static Badge](https://img.shields.io/badge/GitHub-Actions-ffffff.svg?&style=flat&logo=GITHUBACTIONS&logoColor=1e88ff)  
 
-![Static Badge](https://img.shields.io/badge/GitHub-000000.svg?&style=flat&logo=GITHUB&logoColor=ffffff)
-![Static Badge](https://img.shields.io/badge/GITLAB-ffffff.svg?&style=flat&logo=GITLAB&logoColor=fc6d26) 
+![Static Badge](https://img.shields.io/badge/Git-ffffff.svg?&style=flat&logo=git&logoColor=f03c2e) 
+![Static Badge](https://img.shields.io/badge/GitHub-000000.svg?&style=flat&logo=GITHUB&logoColor=ffffff) 
+![Static Badge](https://img.shields.io/badge/GITLAB-ffffff.svg?&style=flat&logo=GITLAB&logoColor=fc6d26)  
+
 
 ## Tools
 
 ---
 
-![Static Badge](https://img.shields.io/badge/Figma-ffffff.svg?&style=flat&logo=figma&logoColor=b659ff)  
+![Static Badge](https://img.shields.io/badge/.http-ffffff.svg?&style=flat&logo=intellijidea&logoColor=000000)
+![Static Badge](https://img.shields.io/badge/Postman-ffffff.svg?&style=flat&logo=Postman&logoColor=f26b3a)
+![Static Badge](https://img.shields.io/badge/Swagger-ffffff.svg?&style=flat&logo=Swagger&logoColor=6d9a00)
+
 
 ![Static Badge](https://img.shields.io/badge/JIRA-253858.svg?&style=flat&logo=JIRA&logoColor=2684ff)
 ![Static Badge](https://img.shields.io/badge/Gerrit-ffffff.svg?&style=flat&logo=GERRIT&logoColor=000080)  
  
+![Static Badge](https://img.shields.io/badge/Figma-ffffff.svg?&style=flat&logo=figma&logoColor=b659ff)  
+
 ![Static Badge](https://img.shields.io/badge/Obsidian-000000.svg?&style=flat&logo=obsidian&logoColor=846eda) 
 ![Static Badge](https://img.shields.io/badge/NOTION-ffffff.svg?&style=flat&logo=NOTION&logoColor=000000)   
 
