@@ -83,8 +83,7 @@ Now learning: `React`, `Python Libraries`
 
 ![Static Badge](https://img.shields.io/badge/.http-ffffff.svg?&style=flat&logo=intellijidea&logoColor=000000)
 ![Static Badge](https://img.shields.io/badge/Postman-ffffff.svg?&style=flat&logo=Postman&logoColor=f26b3a)
-![Static Badge](https://img.shields.io/badge/Swagger-ffffff.svg?&style=flat&logo=Swagger&logoColor=6d9a00)
-
+![Static Badge](https://img.shields.io/badge/Swagger-ffffff.svg?&style=flat&logo=Swagger&logoColor=6d9a00)  
 
 ![Static Badge](https://img.shields.io/badge/JIRA-253858.svg?&style=flat&logo=JIRA&logoColor=2684ff)
 ![Static Badge](https://img.shields.io/badge/Gerrit-ffffff.svg?&style=flat&logo=GERRIT&logoColor=000080)  
