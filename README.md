@@ -89,6 +89,8 @@ Now learning: `React`, `Python Libraries`
 ![Static Badge](https://img.shields.io/badge/JIRA-253858.svg?&style=flat&logo=JIRA&logoColor=2684ff)
 ![Static Badge](https://img.shields.io/badge/Gerrit-ffffff.svg?&style=flat&logo=GERRIT&logoColor=000080)  
  
+![Static Badge](https://img.shields.io/badge/Gist-000000.svg?&style=flat&logo=GITHUB&logoColor=ffffff)  
+
 ![Static Badge](https://img.shields.io/badge/Figma-ffffff.svg?&style=flat&logo=figma&logoColor=b659ff)  
 
 ![Static Badge](https://img.shields.io/badge/Obsidian-000000.svg?&style=flat&logo=obsidian&logoColor=846eda) 
