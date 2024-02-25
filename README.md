@@ -70,7 +70,7 @@ Now learning: `React`, `Python Libraries`
 
 <img src="assets/GCP.png" width="1.5%"> `Google Cloud Platform`  
 
-![Static Badge](https://img.shields.io/badge/GitHub-Actions-ffffff.svg?&style=flat&logo=GITHUBACTIONS&logoColor=1e88ff)  
+![Static Badge](https://img.shields.io/badge/GitHub-Actions-1e88ff.svg?&style=flat&logo=githubactions&labelColor=ffffff&logoColor=1e88ff)  
 
 ![Static Badge](https://img.shields.io/badge/Git-ffffff.svg?&style=flat&logo=git&logoColor=f03c2e) 
 ![Static Badge](https://img.shields.io/badge/GitHub-000000.svg?&style=flat&logo=GITHUB&logoColor=ffffff) 
@@ -88,9 +88,9 @@ Now learning: `React`, `Python Libraries`
 ![Static Badge](https://img.shields.io/badge/JIRA-253858.svg?&style=flat&logo=JIRA&logoColor=2684ff)
 ![Static Badge](https://img.shields.io/badge/Gerrit-ffffff.svg?&style=flat&logo=GERRIT&logoColor=000080)  
  
-![Static Badge](https://img.shields.io/badge/GitHub-Desktop-ffffff.svg?&style=flat&logo=github&logoColor=73278a) 
+![Static Badge](https://img.shields.io/badge/GitHub-Desktop-73278a.svg?&style=flat&logo=github&labelColor=ffffff&logoColor=73278a) 
 ![Static Badge](https://img.shields.io/badge/SourceTree-ffffff.svg?&style=flat&logo=sourcetree&logoColor=2684ff) 
-![Static Badge](https://img.shields.io/badge/GitHub-Gist-ffffff.svg?&style=flat&logo=GITHUB&logoColor=ff9000)  
+![Static Badge](https://img.shields.io/badge/GitHub-Gist-ff9000.svg?&style=flat&logo=GITHUB&labelColor=ffffff&logoColor=ff9000)  
 
 ![Static Badge](https://img.shields.io/badge/Figma-ffffff.svg?&style=flat&logo=figma&logoColor=b659ff)  
 
