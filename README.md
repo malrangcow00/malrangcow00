@@ -158,5 +158,9 @@ Now learning: `React`, `Python Libraries`
 [//]: # (- 🌱 I’m currently learning ...)
 [//]: # (- 💬 Ask me about ...)
 
+[//]: # (labelColor 로고 쪽 배경)
+[//]: # (logoColor 로고색)
+[//]: # (뱃지명 뒤 - 전체 배경 / dash 사용 시 - 오른쪽 배경)
+[//]: # (color 오른쪽 배경)
 
 [SSAFY]: https://ssafy.com
