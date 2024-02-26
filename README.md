@@ -108,7 +108,7 @@ Now learning: `React`, `Python Libraries`
 
 
 
-## PROJECT
+## Project
 
 ---
 ### [`tRANvel`](https://github.com/malrangcow00/tRANvel)  
