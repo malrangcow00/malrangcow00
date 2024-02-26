@@ -111,8 +111,8 @@ Now learning: `React`, `Python Libraries`
 ## PROJECT
 
 ---
-[tRANvel](# Contact)
-[ShowFin](# Contact)
+[tRANvel](#Contact)
+[ShowFin](#Contact)
 
 
 ## EDUCATION
