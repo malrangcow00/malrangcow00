@@ -46,7 +46,7 @@ Stay tuned for updates, and let’s stack the digital bricks and communicate tog
 <img src="assets/Java.png" width="5%"><img src="assets/Python.png" width="7%"> <img src="assets/JavaScript.png" width="4%">  
 
 [//]: # (<img src="assets/Ruby.png" width="8%">)
-Now learning: `Ruby`, `TypeScript`
+Now learning: `TypeScript`
 
 ## Frameworks & Libraries
 
