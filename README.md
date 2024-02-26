@@ -108,10 +108,12 @@ Now learning: `React`, `Python Libraries`
 
 
 
-[//]: # (## PROJECT)
+## PROJECT
 
-[//]: # ()
-[//]: # (---)
+---
+[tRANvel](# Contact)
+[ShowFin](# Contact)
+
 
 ## EDUCATION
 
@@ -151,7 +153,6 @@ Now learning: `React`, `Python Libraries`
 
 [//]: # (리액트 추가)
 [//]: # (Infra 기술 스택 추가)
-[//]: # (루비 추가할까...??)
 
 [//]: # (- 🔭 I’m currently working on ...)
 [//]: # (- 🌱 I’m currently learning ...)
