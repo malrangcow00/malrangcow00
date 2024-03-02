@@ -108,7 +108,7 @@ Now learning: `React`, `Python Libraries`
 
 
 
-## PROJECT
+## Projects
 
 ---
 ### [`tRANvel`](https://github.com/malrangcow00/tRANvel)  
@@ -117,7 +117,7 @@ Now learning: `React`, `Python Libraries`
 금융을 "모르는" 젊은이를 위한 예적금 비교 및 대출 추천 서비스  
 >삼성 청년 SW 아카데미 1학기 관통 프로젝트 최우수상
 
-## EDUCATION
+## Education
 
 ---
 🌆 [SSAFY] : Samsung Software Academy for Youth
