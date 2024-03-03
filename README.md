@@ -117,6 +117,11 @@ Now learning: `React`, `Python Libraries`
 금융을 "모르는" 젊은이를 위한 예적금 비교 및 대출 추천 서비스  
 >삼성 청년 SW 아카데미 1학기 관통 프로젝트 최우수상
 
+
+## Certifications
+
+---
+
 ## Education
 
 ---
@@ -128,10 +133,6 @@ Now learning: `React`, `Python Libraries`
 [//]: # ()
 [//]: # (---)
 
-[//]: # (### Certifications)
-
-[//]: # ()
-[//]: # (---)
 
 ## Natural Languages
 
