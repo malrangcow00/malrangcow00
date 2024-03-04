@@ -66,7 +66,12 @@ Now learning: `React`, `Python Libraries`
 ---
 
 ![Static Badge](https://img.shields.io/badge/MySQL-ffffff.svg?&style=flat&logo=mysql&logoColor=00618a)
+![Static Badge](https://img.shields.io/badge/Oracle-ffffff.svg?&style=flat&logo=oracle&logoColor=ff0000)
 ![Static Badge](https://img.shields.io/badge/SQLite-ffffff.svg?&style=flat&logo=sqlite&logoColor=0082c8)  
+
+![Static Badge](https://img.shields.io/badge/DataGrip-ffffff.svg?&style=flat&logo=datagrip&logoColor=000000)
+![Static Badge](https://img.shields.io/badge/MySQL-Workbench-ffffff.svg?&style=flat&logo=mysql&logoColor=ffffff&labelColor=25547a)
+![Static Badge](https://img.shields.io/badge/DBeaver-ffffff.svg?&style=flat&logo=dbeaver&logoColor=45352f)  
 
 <img src="assets/GCP.png" width="1.5%"> `Google Cloud Platform`  
 
