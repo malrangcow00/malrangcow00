@@ -115,7 +115,7 @@ Now learning: `React`, `Python Libraries`
 
 ---
 
-[![tRANvel](https://sync-private-repositories.vercel.app/api/pin/?username=malrangcow00&repo=tRANvel&theme=highcontrast)](https://github.com/malrangcow00/tRANvel)
+[![tRANvel](https://sync-private-repositories.vercel.app/api/pin/?username=malrangcow00&repo=tRANvel&theme=highcontrast)](https://github.com/malrangcow00/tRANvel)　
 [![ShowFin](https://sync-private-repositories.vercel.app/api/pin/?username=malrangcow00&repo=ShowFin&theme=highcontrast)](https://github.com/malrangcow00/ShowFin)  
 
 ## Certifications
