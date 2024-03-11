@@ -36,13 +36,12 @@ Stay tuned for updates, and let’s stack the digital bricks and communicate tog
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=malrangcow00)](https://solved.ac/malrangcow00/)
 
-[//]: # (Most used Langs)
-[//]: # (![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=malrangcow00&layout=compact&theme=dark&#41;)
-
 
 ## Programming Languages
 
 ---
+![Top Langs](https://sync-private-repositories.vercel.app/api/top-langs/?username=malrangcow00&layout=compact&theme=highcontrast&count_private=true)
+
 <img src="assets/Java.png" width="5%"><img src="assets/Python.png" width="7%"> <img src="assets/JavaScript.png" width="4%">  
 
 [//]: # (<img src="assets/Ruby.png" width="8%">)
