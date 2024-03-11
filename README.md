@@ -27,10 +27,6 @@ Stay tuned for updates, and let’s stack the digital bricks and communicate tog
 [//]: # (Throughout university I was an active member of Computer Science House, a “Special Interest House” with a focus on, you guessed it, computers. I learned a ton while I was there, both through personal projects and just being in an atmosphere of learning and &#40;more importantly&#41; doing.)
 
 
-
-[//]: # (Github Stats)
-[//]: # ([![malrangcow00's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=malrangcow00&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
-
 ## Computational Thinking
 
 ---
