@@ -36,10 +36,6 @@ Stay tuned for updates, and let’s stack the digital bricks and communicate tog
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=malrangcow00)](https://solved.ac/malrangcow00/)
 
-![Gist Card](https://sync-private-repositories.vercel.app/api/gist?id=d35167a9a2b48ceafe8b881c2c30b5fe)
-
-
-
 ## Programming Languages
 
 ---
