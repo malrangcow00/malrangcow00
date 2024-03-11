@@ -36,6 +36,9 @@ Stay tuned for updates, and let’s stack the digital bricks and communicate tog
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=malrangcow00)](https://solved.ac/malrangcow00/)
 
+![Gist Card](https://sync-private-repositories.vercel.app/api/gist?id=d35167a9a2b48ceafe8b881c2c30b5fe)
+
+
 
 ## Programming Languages
 
@@ -115,9 +118,14 @@ Now learning: `React`, `Python Libraries`
 ## Projects
 
 ---
+
+
 ### [`tRANvel`](https://github.com/malrangcow00/tRANvel)  
+[![tRANvel](https://sync-private-repositories.vercel.app/api/pin/?username=malrangcow00&repo=tRANvel&theme=highcontrast)](https://github.com/malrangcow00/tRANvel)  
 색다른 여행을 즐기고픈 이들을 위한 랜덤 행선지 추천 모바일 앱 서비스  
 ### [`ShowFin`](https://github.com/malrangcow00/ShowFin)  
+
+[![tRANvel](https://sync-private-repositories.vercel.app/api/pin/?username=malrangcow00&repo=ShowFin&theme=highcontrast)](https://github.com/malrangcow00/ShowFin)  
 금융을 "모르는" 젊은이를 위한 예적금 비교 및 대출 추천 서비스  
 >삼성 청년 SW 아카데미 1학기 관통 프로젝트 최우수상
 
