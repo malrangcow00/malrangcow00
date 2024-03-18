@@ -137,9 +137,9 @@ Now learning: `React`, `Python Libraries`
 
 ---
 
-<span style="color: #228be6">한</span> Korean : `Native`   
-<span style="color: #4c6ef5">En</span> English : `Advanced` Fluent in formal / informal communication, capable of writing academic essays, and reading original research papers  
-<span style="color: #fa5252">あ</span> Japanese : `Intermediate` Fluent in formal/informal communication 
+<span style="color: #228be6">한</span> Korean `Native` : Comfortable with public speaking   
+<span style="color: #4c6ef5">En</span> English `Advanced` : Proficient in formal/informal communication, academic writing, and understanding research papers  
+<span style="color: #fa5252">あ</span> Japanese `Intermediate` : Skilled in formal/informal communication  
 
 ## Find me
 
