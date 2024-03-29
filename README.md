@@ -120,7 +120,7 @@ Now learning: `React`, `Python Libraries`
 ## Certifications
 
 ---
-SQLD(SQL Developer)
+SQLD(SQL Developer)  
 정보처리기사(Engineer Information Processing): 필기 합격
 
 ## Education
