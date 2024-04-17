@@ -95,6 +95,7 @@ Now learning: `React`, `Python Libraries`
 
 ![Static Badge](https://img.shields.io/badge/Figma-ffffff.svg?&style=flat&logo=figma&logoColor=b659ff)  
 
+![Static Badge](https://img.shields.io/badge/Mermaid-ff376f.svg?&style=flat&logo=mermaid&logoColor=ffffff) 
 ![Static Badge](https://img.shields.io/badge/Obsidian-000000.svg?&style=flat&logo=obsidian&logoColor=846eda) 
 ![Static Badge](https://img.shields.io/badge/NOTION-ffffff.svg?&style=flat&logo=NOTION&logoColor=000000)   
 
