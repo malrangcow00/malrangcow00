@@ -2,7 +2,7 @@
 ### <span style="color: #868e96">A Developer You'd Want to Collaborate With</span>
 
 ---
-Alooo !! 👋 I’m MalrangCow, a dedicated back-end developer with a zest for creativity and innovation. 😄
+Alooo !! 👋 I’m MalrangCow, a dedicated back-end developer aspiring to become an AI engineer, with a zest for creativity and innovation. 😄
 
 When I'm not deep in code, you'll find me riffing on my electric guitar 🎸, immersing myself in gaming 🎮,  
 or taking leisurely drives accompanied by my favorite tunes. 🎧  
