@@ -40,7 +40,6 @@ Stay tuned for updates, and let’s stack the digital bricks and communicate tog
 <img src="assets/Python.png" width="7%"><img src="assets/Java.png" width="5%"> 　 <img src="assets/JavaScript.png" width="4%">  
 
 [//]: # (<img src="assets/Ruby.png" width="8%">)
-Now learning: `TypeScript`
 
 ## Frameworks & Libraries
 
@@ -56,7 +55,7 @@ Now learning: `TypeScript`
 
 [//]: # (![Static Badge]&#40;https://img.shields.io/badge/React-ffffff.svg?&style=flat&logo=react&logoColor=61dafb&#41;  )
 
-Now learning: `React`, `Python Libraries`  
+Now learning: `Python Libraries`  
 
 ## Infrastructure & DevOps
 
