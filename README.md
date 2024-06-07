@@ -37,7 +37,7 @@ Stay tuned for updates, and let’s stack the digital bricks and communicate tog
 ---
 ![Top Langs](https://sync-private-repositories.vercel.app/api/top-langs/?username=malrangcow00&layout=compact&theme=highcontrast&count_private=true)
 
-<img src="assets/Python.png" width="7%"> <img src="assets/Java.png" width="5%"><img src="assets/JavaScript.png" width="4%">  
+<img src="assets/Python.png" width="7%"><img src="assets/Java.png" width="5%"> <img src="assets/JavaScript.png" width="4%">  
 
 [//]: # (<img src="assets/Ruby.png" width="8%">)
 Now learning: `TypeScript`
