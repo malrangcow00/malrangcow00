@@ -75,7 +75,7 @@ Now learning: `Python Libraries`
 
 ![Static Badge](https://img.shields.io/badge/Git-ffffff.svg?&style=flat&logo=git&logoColor=f03c2e) 
 ![Static Badge](https://img.shields.io/badge/GitHub-000000.svg?&style=flat&logo=GITHUB&logoColor=ffffff) 
-![Static Badge](https://img.shields.io/badge/GITLAB-ffffff.svg?&style=flat&logo=GITLAB&logoColor=fc6d26) 
+![Static Badge](https://img.shields.io/badge/GitLab-ffffff.svg?&style=flat&logo=GITLAB&logoColor=fc6d26) 
 ![Static Badge](https://img.shields.io/badge/GitHub-Gist-ff9000.svg?&style=flat&logo=github&labelColor=ffffff&logoColor=ff9000)  
 
 ## Tools
