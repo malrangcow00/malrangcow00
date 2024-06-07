@@ -37,7 +37,7 @@ Stay tuned for updates, and let’s stack the digital bricks and communicate tog
 ---
 ![Top Langs](https://sync-private-repositories.vercel.app/api/top-langs/?username=malrangcow00&layout=compact&theme=highcontrast&count_private=true)
 
-<img src="assets/Java.png" width="5%"><img src="assets/Python.png" width="7%"> <img src="assets/JavaScript.png" width="4%">  
+<img src="assets/Python.png" width="7%"> <img src="assets/Java.png" width="5%"><img src="assets/JavaScript.png" width="4%">  
 
 [//]: # (<img src="assets/Ruby.png" width="8%">)
 Now learning: `TypeScript`
@@ -45,10 +45,10 @@ Now learning: `TypeScript`
 ## Frameworks & Libraries
 
 --- 
-![Static Badge](https://img.shields.io/badge/Spring_Boot-ffffff.svg?&style=flat&logo=springboot&logoColor=6db33f)  
-
 ![Static Badge](https://img.shields.io/badge/Django-103e2e.svg?&style=flat&logo=django&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/FastAPI-ffffff.svg?&style=flat&logo=fastapi&logoColor=05988a)  
+
+![Static Badge](https://img.shields.io/badge/Spring_Boot-ffffff.svg?&style=flat&logo=springboot&logoColor=6db33f)  
 
 ![Static Badge](https://img.shields.io/badge/Vue.js-ffffff.svg?&style=flat&logo=vue.js&logoColor=41b883)
 ![Static Badge](https://img.shields.io/badge/Vuetify-ffffff.svg?&style=flat&logo=vuetify&logoColor=1697f6)
